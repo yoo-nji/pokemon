@@ -12,9 +12,10 @@
 팀 작업이 완료된 후 **개인적으로 디벨롭 작업을 이어나가고 있으며, 향후 React로의 마이그레이션 및 Next.js를 활용한 SSR 지원을 통해 성능 최적화와 검색엔진 최적화를 계획하고 있습니다.**
 
 
-## 구현 화면
+## 구현 화면(반응형)
 ### 메인
-<img src="https://github.com/user-attachments/assets/1e4d40e4-c015-4d32-b7e0-95d9517358c9" alt="메인전체" style="margin:0 auto">
+<img src="https://github.com/user-attachments/assets/1e4d40e4-c015-4d32-b7e0-95d9517358c9" alt="메인전체">
+<img src="https://github.com/user-attachments/assets/37842f0b-c70c-4909-8911-1c5322aef335" alt="모바일" style="width: 300px;">
 
 * 도감 메인
   * 포켓몬 정보를 조회할 수 있는 도감 기능
@@ -29,7 +30,7 @@
   * 포켓몬 상세 정보 탭구조 활용하여 다국어(한국어, 영어, 일본어) 지원
 
 ### 미니게임
-<img src="https://github.com/user-attachments/assets/249ea95c-45bb-46f0-a660-fa05f262fd28" alt="미니게임전체" style="margin:0 auto">
+<img src="https://github.com/user-attachments/assets/249ea95c-45bb-46f0-a660-fa05f262fd28" alt="미니게임전체">
 
 * 포켓몬 이름 퀴즈
   * 퀴즈 문제 로드: JSON 데이터에서 포켓몬 퀴즈 문제를 랜덤으로 로드합니다
