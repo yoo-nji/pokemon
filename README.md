@@ -1,6 +1,6 @@
 # 우리만의 포켓몬도감
 
->기간: 2024.06.10 ~ 2024.07.16<br>
+>기간: 2024.06.10 ~ 2024.07.22<br>
 배포: https://yoo-nji.github.io/pokemon/
 
 
@@ -74,5 +74,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+## 개발 과정
+- **초기 구현**: 2024.06.10 ~ 2024.07.11 - CSS, HTML, JS로 기본 기능 구현
+- **Vue.js로 마이그레이션**: 2024.07.12 ~ 2024.07.22 - Vue.js와 Vuetify를 이용해 기능성 강화
 
+## 향후 계획
+- **React로의 마이그레이션**: 향후 React와 Next.js를 활용한 SSR 지원 계획
+- **성능 최적화**: 성능 최적화 및 검색엔진 최적화를 통해 사용자 경험 개선 계획
 
